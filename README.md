@@ -27,7 +27,7 @@ Gradientor options
 
 You should always set selector on color gradient should be applied.
 
-	selector: $$('b') // will apply gradients to b tags
+		selector: $$('b') // will apply gradients to b tags
 	
 Other options are optional (listis shown default values):
 
@@ -39,6 +39,7 @@ Screenshots
 -----------
 
 ![Screenshot 1](http://workshop.rs/projects/gradientor/gradientor.png)	
+![Screenshot 1](http://workshop.rs/projects/gradientor/gradientor2.png)	
 		
 More info
 ---------
