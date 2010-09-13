@@ -1,9 +1,9 @@
 Gradientor
 ==========
 
-Gradientor is MooTools plugin which will color selected elements in gradient.
-All you have to do is to choose elements and set first and last color in gradient.
-Also, you can set CSS property on which gradient color should be applied.
+Gradientor is MooTools plugin which will color selected elements in gradient.<br />
+All you have to do is to choose elements and set first and last color in gradient.<br />
+Also, you can set CSS property on which gradient color should be applied.<br />
 
 ![Screenshot](http://workshop.rs/projects/gradientor/gradientor.png)
 
@@ -39,7 +39,8 @@ Screenshots
 -----------
 
 ![Screenshot 1](http://workshop.rs/projects/gradientor/gradientor.png)	
-![Screenshot 1](http://workshop.rs/projects/gradientor/gradientor2.png)	
+![Screenshot 2](http://workshop.rs/projects/gradientor/gradientor2.png)	
+![Screenshot 3](http://workshop.rs/projects/gradientor/gradientor3.png)	
 		
 More info
 ---------
