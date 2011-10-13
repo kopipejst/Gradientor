@@ -30,7 +30,9 @@ var Gradientor = new Class({
 		this.setOptions(options);
 		var opts = this.options;
 		
-		var r = g = b = 0;
+		var r = 0,
+            g = 0,
+            b = 0;
 		
 		
 		r = sr = parseInt(opts.color_start.substring(0,2),16);
